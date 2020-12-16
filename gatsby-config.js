@@ -57,6 +57,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     `gatsby-plugin-emotion`,
     `gatsby-plugin-postcss`,
+    `gatsby-plugin-sass`,
     {
       resolve: "gatsby-source-contentful",
       options: contentfulConfig,

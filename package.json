@@ -20,6 +20,7 @@
     "gatsby-plugin-postcss": "^3.4.0",
     "gatsby-plugin-react-helmet": "^3.7.0",
     "gatsby-plugin-react-svg": "^3.0.0",
+    "gatsby-plugin-sass": "^2.8.0",
     "gatsby-plugin-sharp": "^2.6.43",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-contentful": "^2.3.17",
@@ -32,6 +33,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
+    "sass": "^1.30.0",
     "tailwindcss": "^2.0.2",
     "twin.macro": "^2.0.7"
   },
